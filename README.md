@@ -268,10 +268,10 @@ resumerank-ai/
 
 | Member | Role |
 |---|---|
-| 👤 Member 1 | Lead Developer & Pipeline Architect |
-| 👤 Member 2 | REGEX & Extraction Logic |
-| 👤 Member 3 | Scoring Engine & Normalization |
-| 👤 Member 4 | Testing, Visualization & Documentation |
+| 👤 Kartik Sharma | Lead Developer & Pipeline Architect |
+| 👤 Nikhil Kushwaha| REGEX & Extraction Logic |
+| 👤 Kartikey Singh | Scoring Engine & Normalization |
+| 👤 Kanishk Gupta| Testing, Visualization & Documentation |
 
 *Built with ❤️ at **ABES Engineering College** for **Smart ABES Hackathon 2025***
 
